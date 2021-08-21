@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ankit Maddhesia
-- 👀 I’m interested in Competetive Coding in JAVA and App Development.
-- 🌱 I’m currently learning DS and algorithm , Android studio App Development.
+- 👀 I create stuff on my own and I believe in changing the world by my line of code.
+- 🌱 I’m currently working on Android studio App Development in JAVA.
 - 📫 You can reach me https://www.linkedin.com/in/ankit-maddhesia-8773711a7/
